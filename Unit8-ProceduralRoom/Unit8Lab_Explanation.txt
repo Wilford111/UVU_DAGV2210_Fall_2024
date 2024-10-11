@@ -1,0 +1,4 @@
+I think the capabilities of Houdini are becoming clearer to me the more I work on it. Creating the house and the chable were pretty fun actually. It was a little confusing to know which things to copy and where to paste them, but once I got it working, it felt very rewarding.
+The chair was a little tougher to figure out, since not every node was covered in detail in the class recording, but I was able to figure out what to do with a little tinkering.
+
+I'm guessing we'll be making these into HDA's in the near future, and we'll need to add certain configurations to them. For the house, I'd definitely add some options for how wide, tall, and deep the house will be. For the chable, I'd add some options for how tall it will be and the dimentions of the top. I can also add an option for how many legs there can be, since that was briefly covered as well.
